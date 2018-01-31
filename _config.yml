@@ -5,7 +5,7 @@ url: "http://rubyops.com/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: RubyOps, DevOps, Ruby, etc.
+  title: Ruby and DevOps.
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash

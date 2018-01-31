@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ruby: flush all redis keys on a remote host from command line
+title: Flush all redis keys on a remote host from command line
 tags: [Ruby, Redis]
 ---
 
