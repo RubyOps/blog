@@ -6,9 +6,9 @@ tags: [Ruby, Redis]
 
 Install `redis` gem.
 
-```
+{% highlight bash %}
 gem install redis
-```
+{% endhighlight %}
 Execute from Linux shell.
 
 {% highlight ruby %}
