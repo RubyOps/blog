@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/"
-url: "http://rubyops.com"
+baseurl: ""
+url: "http://rubyops.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
