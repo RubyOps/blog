@@ -11,10 +11,10 @@ gem install redis
 ```
 Execute from Linux shell.
 
-```ruby
+{% highlight ruby %}
 ruby -e 'require "redis"
 redis = Redis.new(:host => "remote.host.ip.address", :password => "PASSWORD", :port => 6379)
 redis.flushall'
-```
+{% endhighlight %}
 
 Simple as that.
