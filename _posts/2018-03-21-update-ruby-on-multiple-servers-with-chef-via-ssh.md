@@ -62,7 +62,7 @@ ssh chef@server.myserver.com
 
 ## Sudo setup
 
-Check if your user belongs to the `sudo` group.
+Check if your user on the remote server belongs to the `sudo` group. In this case the user is named `chef`.
 
 ````
 id chef
